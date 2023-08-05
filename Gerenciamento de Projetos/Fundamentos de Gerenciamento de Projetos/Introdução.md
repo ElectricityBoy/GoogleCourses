@@ -237,3 +237,49 @@ O Lean usa a ferramenta de qualidade 5S para eliminar oito áreas de desperdíci
 Six Sigma envolve a redução de variações, garantindo que os processos de qualidade sejam sempre seguidos. O método Six Sigma segue uma abordagem de melhoria de processo chamada DMAIC, que significa definir, medir, analisar, melhorar e controlar.
 
 Lean Six Sigma é uma combinação das abordagens Lean e Six Sigma. Muitas vezes, é usado em projetos que visam economizar dinheiro, melhorar a qualidade e passar pelos processos rapidamente. Lean Six Sigma também é ideal para resolver problemas complexos ou de alto risco. A ferramenta de qualidade 5S, o processo DMAIC e o uso de quadros Kanban são todos componentes dessa abordagem. 
+
+### Aprendendo sobre a cultura da empresa
+
+## Identidade
+
+A cultura de uma organização é definida pela sua identidade! Ela vai descrever a forma que a emrpesa conduz os negócios, tanto internamento quanto externamente. Os valores e a cultura andam lado a lado e fazem parte da identidade. Podemos classificá-la como sua personalidade.
+
+## Pessoas
+
+A cultura de uma organização é primordial para definir o corpo de colaboradores da empresa. Sendo eles o reflexo implementado acerca de suas ações e produtos
+
+Para um lugar novo temos algumas perguntas essenciais que podem ser feitas para se aprofundar na cultura de uma organização:
+
+## Atmosfera
+1. Código de vestimenta
+2. Como o crédito é compartilhado na emrpesa
+3. Se a tomada de risco é encorojada e o que acontece quando falham
+4. Como os gestores apoiam e motivam a equipe
+5. Como as pessos integagem com clientes e usuários
+6. Como e quando ocorrem feedbacks
+7. Quais são as principais tradições do trabalho
+8. Quais maneiras celebrão o sucesso
+
+## Políticas
+
+1. Quais politicas para doenças e férias?
+2. Flexibilidade
+3. Existem ações que apoiam o compartilhamento de identidade?
+
+## Valores
+1. Quais sao as declaraoes de missão e valor da empresa?
+2. Como contribuimos para a missão?
+3. Como apoiam o desenvolvimento da carreira?
+
+# Gestão de Mudança
+
+Implementar um novo projeto pode significar mudanças nos processos, orçamentos, cronogramas, e função e resposabilidades dos funcionarios.
+
+A Gestão de Mudanças é o processo de entregar um projeto concluído e fazer com que as pessoas o adotem.** O sucesso do projeto depende da adoção e aceitação**. 
+
+Você pode ajudar a garantir o sucesso do seu projeto, abraçando as mudanças à medida que elas acontecerem e convencendo o público mais amplo, seja o usuário final ou membros da organização, a abraçarem as mudanças também. Ao implementar uma abordagem cuidadosa para a gestão de mudanças, você pode abordar problemas que podem ocorrer nas fases posteriores do seu projeto.
+
+Práticas importante para a gestão de mudança:
+
+1. Seja proativa - Incorpote as etapas, planeje os passos para o encerramento e entrega
+2. Comunique sobre as próximas mudanças: Comunicação regulr com as partes interessadas 
